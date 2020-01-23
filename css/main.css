@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Gelasio&display=swap');
+
+
+
+html {
+    box-sizing: border-box;
+    font-family: 'Gelasio', serif;
+  }
+body {
+    color: #f2f2f2;
+}
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
